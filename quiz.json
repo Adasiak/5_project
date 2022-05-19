@@ -1,0 +1,50 @@
+[
+    {
+        "pytanie":"W ktrym roku pojawił się python",
+        "a":1986,
+        "b":1991,
+        "c":1995,
+        "d":2000,
+        "prawidłowa_odpowiedz":"b"
+    },
+    {
+        "pytanie":"Którą planetą od słońca jest Ziemia",
+        "a":1,
+        "b":3,
+        "c":4,
+        "d":5,
+        "prawidłowa_odpowiedz":"b"
+    },
+    {
+        "pytanie":"Jaki aktor jako pierwszy wcielił sie w rolę Jamesa Bonda",
+        "a":"Sean Connery",
+        "b":"Roger Moore",
+        "c":"Timothy Dalton",
+        "d":"Pierce Barson",
+        "prawidłowa_odpowiedz":"a"
+    },
+    {
+        "pytanie":"Jakiego koloru jest czerwony maluch",
+        "a":"Zielonego",
+        "b":"Czerwonego",
+        "c":"Białego",
+        "d":"Niebieskiego",
+        "prawidłowa_odpowiedz":"b"
+    },
+    {
+        "pytanie":"Jakiego koloru jest białe winogrono",
+        "a":"Zielonego",
+        "b":"Fioletowego",
+        "c":"Białego",
+        "d":"Niebieskiego",
+        "prawidłowa_odpowiedz":"a"
+    },
+    {
+        "pytanie":"Jakiego koloru jest Macbook Space Grey",
+        "a":"Szarego",
+        "b":"Gwiezdnego szarego",
+        "c":"Koperkowego",
+        "d":"Niebieskiego",
+        "prawidłowa_odpowiedz":"b"
+    }
+]
