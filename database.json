@@ -1,0 +1,35 @@
+
+{
+    "employees":[
+
+                {
+
+                        "name": "Janusz",
+
+                        "surname": "Kowalski",
+
+                        "date_of_birth": "20-01-1986"
+
+                },
+                {
+
+                        "name": "Marek",
+
+                        "surname": "Nowak",
+
+                        "date_of_birth": "22-11-1996"
+
+                },
+                {
+
+                        "name": "Wiktor",
+
+                        "surname": "Kaminski",
+
+                        "date_of_birth": "22-11-1936"
+
+                }
+
+    ]
+}
+
